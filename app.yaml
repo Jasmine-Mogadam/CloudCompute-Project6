@@ -1,0 +1,3 @@
+runtime: python39
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: /etc/secrets/credentials.json
